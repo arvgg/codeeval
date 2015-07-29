@@ -1,2 +1,0 @@
-# codeeval
-Codeeval Practice Problems
